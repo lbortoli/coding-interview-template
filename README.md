@@ -3,6 +3,9 @@ This is a Java template for live coding sessions, so we don't have to write
 unnecessary boilerplate code and focus only on writing the solution to the
 problem at hand.
 
+This is intended for interviews where sharing the screen and coding in our local machine using our
+preferred IDE is allowed.
+
 ## How to use it
 We just need to update some parts of the `Main` class:
 * First we need to define the output type for our problem. In the example
